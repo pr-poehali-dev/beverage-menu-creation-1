@@ -11,7 +11,7 @@ const DRINKS = [
     desc: "Насыщенный и бодрящий",
     color: "#8B4513",
     bg: "#FFF8F0",
-    image: "https://cdn.poehali.dev/projects/b3e20e85-827d-46a5-bd6a-fb2a0bf5c7f2/files/4785dfc0-294d-4514-be5e-582ecfcd6eff.jpg",
+    image: "https://cdn.poehali.dev/projects/b3e20e85-827d-46a5-bd6a-fb2a0bf5c7f2/files/326ac8bd-ea8d-4a32-9f75-fc70c365bc3e.jpg",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const DRINKS = [
     desc: "Освежающий и успокаивающий",
     color: "#2D7A4F",
     bg: "#F0FFF6",
-    image: "https://cdn.poehali.dev/projects/b3e20e85-827d-46a5-bd6a-fb2a0bf5c7f2/files/4ac089eb-ff4e-4f50-88cd-b59dc0df1e5e.jpg",
+    image: "https://cdn.poehali.dev/projects/b3e20e85-827d-46a5-bd6a-fb2a0bf5c7f2/files/d8c3d6a8-a3d7-4470-80b6-34db0f33ccdd.jpg",
   },
   {
     id: 3,
@@ -41,7 +41,7 @@ const DRINKS = [
     desc: "Классический и крепкий",
     color: "#3D2B1F",
     bg: "#FFF9F5",
-    image: "https://cdn.poehali.dev/projects/b3e20e85-827d-46a5-bd6a-fb2a0bf5c7f2/files/4785dfc0-294d-4514-be5e-582ecfcd6eff.jpg",
+    image: "https://cdn.poehali.dev/projects/b3e20e85-827d-46a5-bd6a-fb2a0bf5c7f2/files/100e722f-1370-494b-bc8b-a70ae2910153.jpg",
   },
   {
     id: 5,
@@ -51,7 +51,17 @@ const DRINKS = [
     desc: "Лёгкий и полезный",
     color: "#4A7C59",
     bg: "#F2FFF5",
-    image: "https://cdn.poehali.dev/projects/b3e20e85-827d-46a5-bd6a-fb2a0bf5c7f2/files/4ac089eb-ff4e-4f50-88cd-b59dc0df1e5e.jpg",
+    image: "https://cdn.poehali.dev/projects/b3e20e85-827d-46a5-bd6a-fb2a0bf5c7f2/files/4b0856f8-d10e-4dad-bec5-7ee2f8f356f3.jpg",
+  },
+  {
+    id: 6,
+    name: "Цикорий",
+    price: 8,
+    emoji: "🌾",
+    desc: "Без кофеина, мягкий вкус",
+    color: "#A0714F",
+    bg: "#FDF6EE",
+    image: "https://cdn.poehali.dev/projects/b3e20e85-827d-46a5-bd6a-fb2a0bf5c7f2/files/0900a3b5-f43b-4a85-bc86-ba1abd42e287.jpg",
   },
 ];
 
