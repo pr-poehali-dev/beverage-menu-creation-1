@@ -6,7 +6,7 @@ const DRINKS = [
   {
     id: 1,
     name: "Кофе",
-    price: 10,
+    price: 8,
     emoji: "☕",
     desc: "Насыщенный и бодрящий",
     color: "#8B4513",
@@ -16,7 +16,7 @@ const DRINKS = [
   {
     id: 2,
     name: "Мятный чай",
-    price: 8,
+    price: 6,
     emoji: "🌿",
     desc: "Освежающий и успокаивающий",
     color: "#2D7A4F",
@@ -26,7 +26,7 @@ const DRINKS = [
   {
     id: 3,
     name: "Какао",
-    price: 7,
+    price: 5,
     emoji: "🍫",
     desc: "Тёплый и уютный вкус",
     color: "#6B3A2A",
@@ -36,7 +36,7 @@ const DRINKS = [
   {
     id: 4,
     name: "Чёрный чай",
-    price: 7,
+    price: 5,
     emoji: "🫖",
     desc: "Классический и крепкий",
     color: "#3D2B1F",
@@ -46,7 +46,7 @@ const DRINKS = [
   {
     id: 5,
     name: "Зелёный чай",
-    price: 9,
+    price: 7,
     emoji: "🍵",
     desc: "Лёгкий и полезный",
     color: "#4A7C59",
@@ -56,7 +56,7 @@ const DRINKS = [
   {
     id: 6,
     name: "Цикорий",
-    price: 8,
+    price: 6,
     emoji: "🌾",
     desc: "Без кофеина, мягкий вкус",
     color: "#A0714F",
